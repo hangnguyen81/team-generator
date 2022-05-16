@@ -70,11 +70,7 @@
       outline: none;
   }
   
-  .team-container{
-    border: 0.1rem solid rgba(128, 128, 128, 0.418);
-    padding: 0.5rem;
-    margin-top: 0.5rem;
-  }
+ 
 
   .card {
     padding: 2rem;
